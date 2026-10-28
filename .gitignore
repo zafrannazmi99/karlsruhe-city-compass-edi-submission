@@ -1,0 +1,26 @@
+# Private environment files (keep the checked-in examples).
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# Local Python and JavaScript environments/build output.
+**/.venv/
+**/venv/
+**/__pycache__/
+*.py[cod]
+frontend/node_modules/
+frontend/dist/
+frontend/test-results/
+frontend/playwright-report/
+.pytest_cache/
+
+# Local place data, databases, and Milvus storage.
+/data/
+milvus/docker-compose.yml
+milvus/volumes/
+
+# Local-only setup artifacts.
+friend-setup.zip

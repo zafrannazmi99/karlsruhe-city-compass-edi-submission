@@ -1,0 +1,1 @@
+"""Karlsruhe Hidden Gems API."""

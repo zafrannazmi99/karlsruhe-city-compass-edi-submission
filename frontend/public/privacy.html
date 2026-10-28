@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Privacy | Karlsruhe City Compass</title>
+  <style>body{max-width:760px;margin:48px auto;padding:0 22px;font:16px/1.65 Arial,sans-serif;color:#26352a}h1,h2{font-family:Georgia,serif}a{color:#365844}</style>
+</head>
+<body>
+  <main>
+    <p><a href="/">← Karlsruhe City Compass</a></p>
+    <h1>Privacy</h1>
+    <p>This educational demo uses only the information needed to provide its features.</p>
+    <h2>Location</h2>
+    <p>Your device location is read only after you select “Use my location” and grant browser permission. The coordinates stay in the page's memory until you leave or reload. When you search, the selected starting point is sent to this app's backend to calculate nearby results and an estimated route. The place index currently covers Karlsruhe only. Coordinates are not written to the app's database by the search endpoint.</p>
+    <h2>Accounts and saved trips</h2>
+    <p>If you create an account, the app stores your email, a password hash, and the trips and places you choose to save in its SQLite database. The app does not store your plain-text password. Signing out clears the browser's login token; it does not delete the account or saved trips.</p>
+    <h2>Map and place sources</h2>
+    <p>The website loads map styles and tiles from CARTO, uses Photon for place-name geocoding, and verifies suggested place records against the OpenStreetMap Overpass API when you search. These providers receive the network requests needed to provide those services. Search coordinates are used by this app to calculate nearby results and are not sent to Overpass.</p>
+  </main>
+</body>
+</html>

@@ -1,0 +1,899 @@
+[
+  {
+    "question": "Find a sushi restaurant near my starting point",
+    "origin": {
+      "label": "49.0093, 8.4020",
+      "lat": 49.0093,
+      "lon": 8.402,
+      "source": "coordinates"
+    },
+    "retrieved_contexts": [
+      {
+        "id": "node/69119821",
+        "name": "Soki Food",
+        "place_type": "Fast food restaurant",
+        "lat": 49.0097393,
+        "lon": 8.4034118,
+        "description": "Soki Food is an OpenStreetMap-listed fast food restaurant in the Karlsruhe search area, Germany. OSM category: Fast food restaurant. Cuisine: asian;sushi. Wheelchair access: yes. Opening hours: Mo-Sa 11:00-22:00; Su,PH 12:00-22:00. Outdoor seating: yes.",
+        "tags": {
+          "addr:city": "Karlsruhe",
+          "addr:country": "DE",
+          "addr:housenumber": "80",
+          "addr:postcode": "76133",
+          "addr:street": "Kaiserstraße",
+          "amenity": "fast_food",
+          "check_date:opening_hours": "2026-01-21",
+          "cuisine": "asian;sushi",
+          "diet:vegan": "no",
+          "diet:vegetarian": "yes",
+          "indoor_seating": "yes",
+          "level": "0",
+          "name": "Soki Food",
+          "old_name": "Internationale Apotheke Karlsruhe;Anton & Konsorten;Schmatztruhe;Vongruen",
+          "opening_hours": "Mo-Sa 11:00-22:00; Su,PH 12:00-22:00",
+          "outdoor_seating": "yes",
+          "payment:maestro": "yes",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes",
+          "smoking": "outside",
+          "start_date": "2019-10",
+          "takeaway": "yes",
+          "wheelchair": "yes"
+        },
+        "score": 0.577,
+        "source_url": "https://www.openstreetmap.org/node/69119821",
+        "distance_km": 0.11,
+        "route_order": 1,
+        "leg_distance_km": 0.11
+      },
+      {
+        "id": "node/2145575179",
+        "name": "Oishii - Sushi & Grill",
+        "place_type": "Restaurant",
+        "lat": 49.0079752,
+        "lon": 8.3956614,
+        "description": "Oishii - Sushi & Grill is an OpenStreetMap-listed restaurant in the Karlsruhe search area, Germany. OSM category: Restaurant. Cuisine: japanese. Wheelchair access: yes. Opening hours: Mo-Su 11:30-15:00,17:30-23:00. Website: https://www.oishii-karlsruhe.de/.",
+        "tags": {
+          "amenity": "restaurant",
+          "check_date:opening_hours": "2025-01-13",
+          "cuisine": "japanese",
+          "email": "info@oiishi-karlsruhe.de",
+          "name": "Oishii - Sushi & Grill",
+          "opening_hours": "Mo-Su 11:30-15:00,17:30-23:00",
+          "phone": "+49 721 47048606",
+          "toilets:wheelchair": "no",
+          "website": "https://www.oishii-karlsruhe.de/",
+          "wheelchair": "yes"
+        },
+        "score": 0.648,
+        "source_url": "https://www.openstreetmap.org/node/2145575179",
+        "distance_km": 0.49,
+        "route_order": 2,
+        "leg_distance_km": 0.6
+      },
+      {
+        "id": "node/836684440",
+        "name": "Seng Sushi",
+        "place_type": "Restaurant",
+        "lat": 49.0106421,
+        "lon": 8.3920041,
+        "description": "Seng Sushi is an OpenStreetMap-listed restaurant in the Karlsruhe search area, Germany. OSM category: Restaurant. Cuisine: chinese;japanese;sushi. Wheelchair access: no. Opening hours: Mo-Sa 11:30-15:00, 17:30-23:00; Su,PH 12:00-15:00, 17:30-23:00.",
+        "tags": {
+          "addr:city": "Karlsruhe",
+          "addr:country": "DE",
+          "addr:housenumber": "3",
+          "addr:postcode": "76133",
+          "addr:street": "Hirschstraße",
+          "amenity": "restaurant",
+          "contact:fax": "+49 721 1516788",
+          "contact:phone": "+49 721 1516787",
+          "contact:website": "https://sengsushi.de/",
+          "cuisine": "chinese;japanese;sushi",
+          "internet_access": "wlan",
+          "internet_access:fee": "no",
+          "level": "0",
+          "name": "Seng Sushi",
+          "opening_hours": "Mo-Sa 11:30-15:00, 17:30-23:00; Su,PH 12:00-15:00, 17:30-23:00",
+          "payment:cash": "yes",
+          "payment:credit_cards": "no",
+          "payment:girocard": "yes",
+          "running_sushi": "yes",
+          "wheelchair": "no",
+          "wheelchair:description": "Hohe Stufe am Eingang"
+        },
+        "score": 0.693,
+        "source_url": "https://www.openstreetmap.org/node/836684440",
+        "distance_km": 0.74,
+        "route_order": 3,
+        "leg_distance_km": 0.4
+      },
+      {
+        "id": "node/4708732676",
+        "name": "Scheck-in Sushi-Bar",
+        "place_type": "Fast food restaurant",
+        "lat": 49.005666,
+        "lon": 8.411506,
+        "description": "Scheck-in Sushi-Bar is an OpenStreetMap-listed fast food restaurant in the Karlsruhe search area, Germany. OSM category: Fast food restaurant. Cuisine: sushi. Wheelchair access: yes. Opening hours: Mo-Sa 08:00-22:00. Outdoor seating: no.",
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "sushi",
+          "indoor_seating": "yes",
+          "level": "0",
+          "name": "Scheck-in Sushi-Bar",
+          "opening_hours": "Mo-Sa 08:00-22:00",
+          "opening_hours:signed": "no",
+          "outdoor_seating": "no",
+          "smoking": "no",
+          "takeaway": "yes",
+          "wheelchair": "yes"
+        },
+        "score": 0.664,
+        "source_url": "https://www.openstreetmap.org/node/4708732676",
+        "distance_km": 0.8,
+        "route_order": 4,
+        "leg_distance_km": 1.53
+      },
+      {
+        "id": "node/3796835663",
+        "name": "Sushi Park",
+        "place_type": "Restaurant",
+        "lat": 49.0032801,
+        "lon": 8.4226593,
+        "description": "Sushi Park is an OpenStreetMap-listed restaurant in the Karlsruhe search area, Germany. OSM category: Restaurant. Cuisine: sushi. Wheelchair access: yes. Opening hours: Mo 17:00-22:00; Tu-Sa 11:30-14:30,17:00-22:00; Su off. Website: https://sushipark.de/.",
+        "tags": {
+          "addr:housenumber": "34",
+          "addr:street": "Ludwig-Erhard-Allee",
+          "amenity": "restaurant",
+          "check_date:opening_hours": "2023-10-09",
+          "contact:phone": "+49 721 66992535",
+          "cuisine": "sushi",
+          "diet:vegan": "no",
+          "diet:vegetarian": "yes",
+          "email": "info@sushi-park.net",
+          "internet_access": "wlan",
+          "level": "0",
+          "name": "Sushi Park",
+          "opening_hours": "Mo 17:00-22:00; Tu-Sa 11:30-14:30,17:00-22:00; Su off",
+          "start_date": "2015-10",
+          "website": "https://sushipark.de/",
+          "wheelchair": "yes"
+        },
+        "score": 0.705,
+        "source_url": "https://www.openstreetmap.org/node/3796835663",
+        "distance_km": 1.65,
+        "route_order": 5,
+        "leg_distance_km": 0.86
+      }
+    ],
+    "route": {
+      "origin": {
+        "label": "49.0093, 8.4020",
+        "lat": 49.0093,
+        "lon": 8.402,
+        "source": "coordinates"
+      },
+      "distance_km": 3.49,
+      "geometry": [
+        [
+          49.0093,
+          8.402
+        ],
+        [
+          49.0097393,
+          8.4034118
+        ],
+        [
+          49.0079752,
+          8.3956614
+        ],
+        [
+          49.0106421,
+          8.3920041
+        ],
+        [
+          49.005666,
+          8.411506
+        ],
+        [
+          49.0032801,
+          8.4226593
+        ]
+      ],
+      "mode": "approximate-order",
+      "disclaimer": "Suggested visit order; distances and straight map segments are estimates, not walking directions."
+    },
+    "answer": "From 49.0093, 8.4020, these retrieved places are relevant matches:\n1. Oishii - Sushi & Grill (Restaurant; 0.49 km straight-line from the starting point). OSM tags: cuisine=japanese; wheelchair=yes; opening_hours=Mo-Su 11:30-15:00,17:30-23:00; amenity=restaurant.\n2. Scheck-in Sushi-Bar (Fast food restaurant; 0.80 km straight-line from the starting point). OSM tags: cuisine=sushi; wheelchair=yes; opening_hours=Mo-Sa 08:00-22:00; outdoor_seating=no; amenity=fast_food.\n3. Sushi Park (Restaurant; 1.65 km straight-line from the starting point). OSM tags: cuisine=sushi; wheelchair=yes; opening_hours=Mo 17:00-22:00; Tu-Sa 11:30-14:30,17:00-22:00; Su off; amenity=restaurant.\nThese are OpenStreetMap records, not live confirmations of opening status, stock, ambience, or amenities. Distances are straight-line estimates; check the linked OSM records for current details.",
+    "model_status": "ollama"
+  },
+  {
+    "question": "Plan an afternoon with two kids: find attractions and playgrounds",
+    "origin": {
+      "label": "49.0093, 8.4020",
+      "lat": 49.0093,
+      "lon": 8.402,
+      "source": "coordinates"
+    },
+    "retrieved_contexts": [
+      {
+        "id": "way/822623726",
+        "name": "Spiel- und Sportanlage Zoologischer Stadtgarten Zentral/Papagei",
+        "place_type": "Playground",
+        "lat": 49.0002175,
+        "lon": 8.4020925,
+        "description": "Spiel- und Sportanlage Zoologischer Stadtgarten Zentral/Papagei is an OpenStreetMap-listed playground in the Karlsruhe search area, Germany. OSM category: Playground. Access: customers.",
+        "tags": {
+          "access": "customers",
+          "customers": "Zoologischer Stadtgarten",
+          "leisure": "playground",
+          "name": "Spiel- und Sportanlage Zoologischer Stadtgarten Zentral/Papagei",
+          "operator": "Stadt Karlsruhe"
+        },
+        "score": 0.406,
+        "source_url": "https://www.openstreetmap.org/way/822623726",
+        "distance_km": 1.01,
+        "route_order": 1,
+        "leg_distance_km": 1.01
+      },
+      {
+        "id": "way/1158045385",
+        "name": "Spiel- und Sportanlage Südliche Hildapromenade/Christuskirche Anlage",
+        "place_type": "Playground",
+        "lat": 49.0113893,
+        "lon": 8.3853561,
+        "description": "Spiel- und Sportanlage Südliche Hildapromenade/Christuskirche Anlage is an OpenStreetMap-listed playground in the Karlsruhe search area, Germany. OSM category: Playground. Opening hours: 24/7. Access: yes.",
+        "tags": {
+          "access": "yes",
+          "leisure": "playground",
+          "max_age": "14",
+          "name": "Spiel- und Sportanlage Südliche Hildapromenade/Christuskirche Anlage",
+          "note": "Nur noch ein kleines Karussell vorhanden",
+          "opening_hours": "24/7",
+          "operator": "Stadt Karlsruhe",
+          "ref": "KA-8069",
+          "surface": "ground"
+        },
+        "score": 0.431,
+        "source_url": "https://www.openstreetmap.org/way/1158045385",
+        "distance_km": 1.24,
+        "route_order": 2,
+        "leg_distance_km": 1.74
+      },
+      {
+        "id": "way/123081808",
+        "name": "Spiel- und Sportanlage Günther-Klotz-Anlage/Rodelhügel",
+        "place_type": "Playground",
+        "lat": 48.9984885,
+        "lon": 8.3754773,
+        "description": "Spiel- und Sportanlage Günther-Klotz-Anlage/Rodelhügel is an OpenStreetMap-listed playground in the Karlsruhe search area, Germany. OSM category: Playground. Opening hours: 08:00-22:00. Access: yes.",
+        "tags": {
+          "access": "yes",
+          "leisure": "playground",
+          "max_age": "14",
+          "name": "Spiel- und Sportanlage Günther-Klotz-Anlage/Rodelhügel",
+          "opening_hours": "08:00-22:00",
+          "operator": "Stadt Karlsruhe",
+          "ref": "KA-8130"
+        },
+        "score": 0.451,
+        "source_url": "https://www.openstreetmap.org/way/123081808",
+        "distance_km": 2.28,
+        "route_order": 3,
+        "leg_distance_km": 1.61
+      },
+      {
+        "id": "way/183559549",
+        "name": "Spiel- und Sportanlage Haselweg 15a",
+        "place_type": "Playground",
+        "lat": 48.9975446,
+        "lon": 8.3631449,
+        "description": "Spiel- und Sportanlage Haselweg 15a is an OpenStreetMap-listed playground in the Karlsruhe search area, Germany. OSM category: Playground. Opening hours: 08:00-22:00. Access: yes.",
+        "tags": {
+          "access": "yes",
+          "leisure": "playground",
+          "max_age": "14",
+          "name": "Spiel- und Sportanlage Haselweg 15a",
+          "opening_hours": "08:00-22:00",
+          "operator": "Stadt Karlsruhe",
+          "ref": "KA-8307"
+        },
+        "score": 0.419,
+        "source_url": "https://www.openstreetmap.org/way/183559549",
+        "distance_km": 3.12,
+        "route_order": 4,
+        "leg_distance_km": 0.91
+      },
+      {
+        "id": "way/45652373",
+        "name": "Spiel- und Sportanlage Kieselweg",
+        "place_type": "Playground",
+        "lat": 48.9911977,
+        "lon": 8.4432261,
+        "description": "Spiel- und Sportanlage Kieselweg is an OpenStreetMap-listed playground in the Karlsruhe search area, Germany. OSM category: Playground. Opening hours: 08:00-22:00. Access: yes.",
+        "tags": {
+          "access": "yes",
+          "leisure": "playground",
+          "max_age": "14",
+          "name": "Spiel- und Sportanlage Kieselweg",
+          "opening_hours": "08:00-22:00",
+          "operator": "Stadt Karlsruhe",
+          "ref": "KA-8321"
+        },
+        "score": 0.405,
+        "source_url": "https://www.openstreetmap.org/way/45652373",
+        "distance_km": 3.62,
+        "route_order": 5,
+        "leg_distance_km": 5.89
+      }
+    ],
+    "route": {
+      "origin": {
+        "label": "49.0093, 8.4020",
+        "lat": 49.0093,
+        "lon": 8.402,
+        "source": "coordinates"
+      },
+      "distance_km": 11.15,
+      "geometry": [
+        [
+          49.0093,
+          8.402
+        ],
+        [
+          49.0002175,
+          8.4020925
+        ],
+        [
+          49.0113893,
+          8.3853561
+        ],
+        [
+          48.9984885,
+          8.3754773
+        ],
+        [
+          48.9975446,
+          8.3631449
+        ],
+        [
+          48.9911977,
+          8.4432261
+        ]
+      ],
+      "mode": "approximate-order",
+      "disclaimer": "Suggested visit order; distances and straight map segments are estimates, not walking directions."
+    },
+    "answer": "From 49.0093, 8.4020, these retrieved places are relevant matches:\n1. Spiel- und Sportanlage Zoologischer Stadtgarten Zentral/Papagei (Playground; 1.01 km straight-line from the starting point). OSM tags: access=customers; leisure=playground.\n2. Spiel- und Sportanlage Günther-Klotz-Anlage/Rodelhügel (Playground; 2.28 km straight-line from the starting point). OSM tags: opening_hours=08:00-22:00; access=yes; leisure=playground.\n3. Spiel- und Sportanlage Haselweg 15a (Playground; 3.12 km straight-line from the starting point). OSM tags: opening_hours=08:00-22:00; access=yes; leisure=playground.\nThese are OpenStreetMap records, not live confirmations of opening status, stock, ambience, or amenities. Distances are straight-line estimates; check the linked OSM records for current details.",
+    "model_status": "ollama"
+  },
+  {
+    "question": "Where can I shop for a washing machine or household appliance?",
+    "origin": {
+      "label": "49.0093, 8.4020",
+      "lat": 49.0093,
+      "lon": 8.402,
+      "source": "coordinates"
+    },
+    "retrieved_contexts": [
+      {
+        "id": "node/3534156924",
+        "name": "Implement-IT",
+        "place_type": "Electronics shop",
+        "lat": 49.0098162,
+        "lon": 8.401957,
+        "description": "Implement-IT is an OpenStreetMap-listed electronics shop in the Karlsruhe search area, Germany. OSM category: Electronics shop. Brand: Apple Store. Description: Apple Premium Reseller - ausschließlich Apple-Produkte. Wheelchair access: yes. Opening hours: Mo-Fr 10:00-18:30; Sa 10:00-18:00; Su,PH off. Store category: consumer electronics.",
+        "tags": {
+          "addr:city": "Karlsruhe",
+          "addr:country": "DE",
+          "addr:housenumber": "88",
+          "addr:postcode": "76133",
+          "addr:street": "Kaiserstraße",
+          "branch": "Karlsruhe",
+          "brand": "Apple Store",
+          "brand:wikidata": "Q421253",
+          "check_date": "2026-09-28",
+          "check_date:opening_hours": "2026-09-28",
+          "contact:website": "https://www.implement-it.de/",
+          "description": "Apple Premium Reseller - ausschließlich Apple-Produkte",
+          "level": "0",
+          "name": "Implement-IT",
+          "old_name": "I AM;Telekom",
+          "opening_hours": "Mo-Fr 10:00-18:30; Sa 10:00-18:00; Su,PH off",
+          "operator": "Implement-IT GmbH",
+          "shop": "electronics",
+          "short_name": "Apple",
+          "wheelchair": "yes"
+        },
+        "score": 0.367,
+        "source_url": "https://www.openstreetmap.org/node/3534156924",
+        "distance_km": 0.06,
+        "route_order": 1,
+        "leg_distance_km": 0.06
+      },
+      {
+        "id": "node/3578160624",
+        "name": "Techno-World",
+        "place_type": "Electronics shop",
+        "lat": 49.0086664,
+        "lon": 8.4074028,
+        "description": "Techno-World is an OpenStreetMap-listed electronics shop in the Karlsruhe search area, Germany. OSM category: Electronics shop. Wheelchair access: limited. Opening hours: Mo \"nach Vereinbarung\"; Tu-Fr 10:00-19:00; Sa 10:00-16:00. Store category: consumer electronics.",
+        "tags": {
+          "addr:city": "Karlsruhe",
+          "addr:housenumber": "49",
+          "addr:postcode": "76133",
+          "addr:street": "Zähringerstraße",
+          "check_date": "2025-02-27",
+          "contact:email": "info@techno-world-karlsruhe.de",
+          "contact:phone": "+49 721 3543187",
+          "contact:website": "http://www.techno-world-karlsruhe.de/",
+          "level": "0",
+          "name": "Techno-World",
+          "opening_hours": "Mo \"nach Vereinbarung\"; Tu-Fr 10:00-19:00; Sa 10:00-16:00",
+          "shop": "electronics",
+          "wheelchair": "limited"
+        },
+        "score": 0.395,
+        "source_url": "https://www.openstreetmap.org/node/3578160624",
+        "distance_km": 0.4,
+        "route_order": 2,
+        "leg_distance_km": 0.42
+      },
+      {
+        "id": "node/3528913654",
+        "name": "Electronics shop (OSM 3528913654)",
+        "place_type": "Electronics shop",
+        "lat": 49.0082923,
+        "lon": 8.3951131,
+        "description": "Electronics shop (OSM 3528913654) is an OpenStreetMap-listed electronics shop in the Karlsruhe search area, Germany. OSM category: Electronics shop. Store category: consumer electronics.",
+        "tags": {
+          "shop": "electronics"
+        },
+        "score": 0.384,
+        "source_url": "https://www.openstreetmap.org/node/3528913654",
+        "distance_km": 0.51,
+        "route_order": 3,
+        "leg_distance_km": 0.9
+      },
+      {
+        "id": "node/4358025693",
+        "name": "Electronics shop (OSM 4358025693)",
+        "place_type": "Electronics shop",
+        "lat": 49.0082588,
+        "lon": 8.3950999,
+        "description": "Electronics shop (OSM 4358025693) is an OpenStreetMap-listed electronics shop in the Karlsruhe search area, Germany. OSM category: Electronics shop. Store category: consumer electronics.",
+        "tags": {
+          "shop": "electronics"
+        },
+        "score": 0.38,
+        "source_url": "https://www.openstreetmap.org/node/4358025693",
+        "distance_km": 0.52,
+        "route_order": 4,
+        "leg_distance_km": 0.0
+      },
+      {
+        "id": "node/1362733607",
+        "name": "Woolworth",
+        "place_type": "Department store",
+        "lat": 49.0101969,
+        "lon": 8.3946136,
+        "description": "Woolworth is an OpenStreetMap-listed department store in the Karlsruhe search area, Germany. OSM category: Department store. Brand: Woolworth. Wheelchair access: limited. Opening hours: Mo-Sa 09:00-20:00; Su,PH off.",
+        "tags": {
+          "addr:city": "Karlsruhe",
+          "addr:country": "DE",
+          "addr:housenumber": "148",
+          "addr:postcode": "76133",
+          "addr:street": "Kaiserstraße",
+          "brand": "Woolworth",
+          "brand:wikidata": "Q183538",
+          "brand:wikipedia": "de:Woolworth Deutschland",
+          "check_date:opening_hours": "2025-12-06",
+          "level": "-1",
+          "name": "Woolworth",
+          "opening_hours": "Mo-Sa 09:00-20:00; Su,PH off",
+          "operator": "Woolworth GmbH",
+          "shop": "department_store",
+          "toilets": "no",
+          "wheelchair": "limited",
+          "wheelchair:description": "Mit Fahrstuhl"
+        },
+        "score": 0.398,
+        "source_url": "https://www.openstreetmap.org/node/1362733607",
+        "distance_km": 0.55,
+        "route_order": 5,
+        "leg_distance_km": 0.22
+      }
+    ],
+    "route": {
+      "origin": {
+        "label": "49.0093, 8.4020",
+        "lat": 49.0093,
+        "lon": 8.402,
+        "source": "coordinates"
+      },
+      "distance_km": 1.59,
+      "geometry": [
+        [
+          49.0093,
+          8.402
+        ],
+        [
+          49.0098162,
+          8.401957
+        ],
+        [
+          49.0086664,
+          8.4074028
+        ],
+        [
+          49.0082923,
+          8.3951131
+        ],
+        [
+          49.0082588,
+          8.3950999
+        ],
+        [
+          49.0101969,
+          8.3946136
+        ]
+      ],
+      "mode": "approximate-order",
+      "disclaimer": "Suggested visit order; distances and straight map segments are estimates, not walking directions."
+    },
+    "answer": "From 49.0093, 8.4020, these retrieved places are relevant matches:\n1. Implement-IT (Electronics shop; 0.06 km straight-line from the starting point). OSM tags: wheelchair=yes; opening_hours=Mo-Fr 10:00-18:30; Sa 10:00-18:00; Su,PH off; brand=Apple Store; shop=electronics.\n2. Techno-World (Electronics shop; 0.40 km straight-line from the starting point). OSM tags: wheelchair=limited; opening_hours=Mo \"nach Vereinbarung\"; Tu-Fr 10:00-19:00; Sa 10:00-16:00; shop=electronics.\n3. Electronics shop (OSM 3528913654) (Electronics shop; 0.51 km straight-line from the starting point). OSM tags: shop=electronics.\nThese are OpenStreetMap records, not live confirmations of opening status, stock, ambience, or amenities. Distances are straight-line estimates; check the linked OSM records for current details.",
+    "model_status": "ollama"
+  },
+  {
+    "question": "Find a relaxed cafe for a coffee break",
+    "origin": {
+      "label": "49.0093, 8.4020",
+      "lat": 49.0093,
+      "lon": 8.402,
+      "source": "coordinates"
+    },
+    "retrieved_contexts": [
+      {
+        "id": "node/2305037118",
+        "name": "MoccaSin Coffee",
+        "place_type": "Cafe",
+        "lat": 49.0103566,
+        "lon": 8.4015973,
+        "description": "MoccaSin Coffee is an OpenStreetMap-listed cafe in the Karlsruhe search area, Germany. OSM category: Cafe. Wheelchair access: no. Opening hours: Mo-Fr 07:30-20:00; Sa 09:00-20:00; Su,PH 11:00-20:00.",
+        "tags": {
+          "addr:city": "Karlsruhe",
+          "addr:country": "DE",
+          "addr:floor": "0",
+          "addr:housenumber": "6",
+          "addr:postcode": "76133",
+          "addr:street": "Ritterstraße",
+          "amenity": "cafe",
+          "check_date": "2026-08-10",
+          "contact:email": "office@moccasin-coffee.de",
+          "contact:phone": "+49 721 9212127",
+          "contact:website": "http://www.moccasin-coffee.de/",
+          "diet:vegetarian": "yes",
+          "fair_trade": "yes",
+          "level": "0",
+          "name": "MoccaSin Coffee",
+          "opening_hours": "Mo-Fr 07:30-20:00; Sa 09:00-20:00; Su,PH 11:00-20:00",
+          "wheelchair": "no"
+        },
+        "score": 0.485,
+        "source_url": "https://www.openstreetmap.org/node/2305037118",
+        "distance_km": 0.12,
+        "route_order": 1,
+        "leg_distance_km": 0.12
+      },
+      {
+        "id": "node/1558650894",
+        "name": "Cafe Rih",
+        "place_type": "Cafe",
+        "lat": 49.0111338,
+        "lon": 8.3997308,
+        "description": "Cafe Rih is an OpenStreetMap-listed cafe in the Karlsruhe search area, Germany. OSM category: Cafe. Wheelchair access: no. Opening hours: Jun-Sep: Mo-Fr 09:00-19:00, Sa 10:00-19:00; Oct-May: Mo-Fr 09:00-20:00, Sa-Su 10:00-20:00. Outdoor seating: yes. Website: http://www.caferih.de/.",
+        "tags": {
+          "amenity": "cafe",
+          "check_date": "2025-10-08",
+          "indoor_seating": "yes",
+          "name": "Cafe Rih",
+          "opening_hours": "Jun-Sep: Mo-Fr 09:00-19:00, Sa 10:00-19:00; Oct-May: Mo-Fr 09:00-20:00, Sa-Su 10:00-20:00",
+          "outdoor_seating": "yes",
+          "website": "http://www.caferih.de/",
+          "wheelchair": "no"
+        },
+        "score": 0.492,
+        "source_url": "https://www.openstreetmap.org/node/1558650894",
+        "distance_km": 0.26,
+        "route_order": 2,
+        "leg_distance_km": 0.16
+      },
+      {
+        "id": "node/1249739803",
+        "name": "Café Pan",
+        "place_type": "Cafe",
+        "lat": 49.0098639,
+        "lon": 8.406984,
+        "description": "Café Pan is an OpenStreetMap-listed cafe in the Karlsruhe search area, Germany. OSM category: Cafe. Cuisine: crepe. Wheelchair access: limited. Opening hours: Mo-Fr 11:00-19:00; Sa 12:00-17:00. Website: http://www.cafepan.de/.",
+        "tags": {
+          "addr:city": "Karlsruhe",
+          "addr:country": "DE",
+          "addr:housenumber": "50",
+          "addr:postcode": "76133",
+          "addr:street": "Kaiserstraße",
+          "amenity": "cafe",
+          "cuisine": "crepe",
+          "diet:vegan": "yes",
+          "diet:vegetarian": "yes",
+          "email": "heiko.pan@web.de",
+          "fair_trade": "yes",
+          "name": "Café Pan",
+          "opening_hours": "Mo-Fr 11:00-19:00; Sa 12:00-17:00",
+          "operator": "Heiko Gsedl",
+          "organic": "yes",
+          "phone": "+49 721 3505858",
+          "website": "http://www.cafepan.de/",
+          "wheelchair": "limited"
+        },
+        "score": 0.492,
+        "source_url": "https://www.openstreetmap.org/node/1249739803",
+        "distance_km": 0.37,
+        "route_order": 3,
+        "leg_distance_km": 0.55
+      },
+      {
+        "id": "node/3796835657",
+        "name": "chicco di caffè",
+        "place_type": "Cafe",
+        "lat": 49.0109062,
+        "lon": 8.4090595,
+        "description": "chicco di caffè is an OpenStreetMap-listed cafe in the Karlsruhe search area, Germany. OSM category: Cafe. Wheelchair access: yes. Opening hours: Tu-Th 11:00-14:00; PH off.",
+        "tags": {
+          "addr:city": "Karlsruhe",
+          "addr:country": "DE",
+          "addr:housenumber": "2",
+          "addr:postcode": "76131",
+          "addr:street": "Englerstraße",
+          "amenity": "cafe",
+          "level": "0",
+          "name": "chicco di caffè",
+          "opening_hours": "Tu-Th 11:00-14:00; PH off",
+          "wheelchair": "yes"
+        },
+        "score": 0.521,
+        "source_url": "https://www.openstreetmap.org/node/3796835657",
+        "distance_km": 0.54,
+        "route_order": 4,
+        "leg_distance_km": 0.19
+      },
+      {
+        "id": "node/6257701444",
+        "name": "Urban Coffee",
+        "place_type": "Cafe",
+        "lat": 49.0072311,
+        "lon": 8.3925611,
+        "description": "Urban Coffee is an OpenStreetMap-listed cafe in the Karlsruhe search area, Germany. OSM category: Cafe. Opening hours: Tu-Sa 10:00-17:00.",
+        "tags": {
+          "addr:city": "Karlsruhe",
+          "addr:housenumber": "56",
+          "addr:postcode": "76133",
+          "addr:street": "Waldstraße",
+          "amenity": "cafe",
+          "name": "Urban Coffee",
+          "opening_hours": "Tu-Sa 10:00-17:00"
+        },
+        "score": 0.507,
+        "source_url": "https://www.openstreetmap.org/node/6257701444",
+        "distance_km": 0.73,
+        "route_order": 5,
+        "leg_distance_km": 1.27
+      }
+    ],
+    "route": {
+      "origin": {
+        "label": "49.0093, 8.4020",
+        "lat": 49.0093,
+        "lon": 8.402,
+        "source": "coordinates"
+      },
+      "distance_km": 2.29,
+      "geometry": [
+        [
+          49.0093,
+          8.402
+        ],
+        [
+          49.0103566,
+          8.4015973
+        ],
+        [
+          49.0111338,
+          8.3997308
+        ],
+        [
+          49.0098639,
+          8.406984
+        ],
+        [
+          49.0109062,
+          8.4090595
+        ],
+        [
+          49.0072311,
+          8.3925611
+        ]
+      ],
+      "mode": "approximate-order",
+      "disclaimer": "Suggested visit order; distances and straight map segments are estimates, not walking directions."
+    },
+    "answer": "From 49.0093, 8.4020, these retrieved places are relevant matches:\n1. Cafe Rih (Cafe; 0.26 km straight-line from the starting point). OSM tags: wheelchair=no; opening_hours=Jun-Sep: Mo-Fr 09:00-19:00, Sa 10:00-19:00; Oct-May: Mo-Fr 09:00-20:00, Sa-Su 10:00-20:00; outdoor_seating=yes; amenity=cafe.\n2. Café Pan (Cafe; 0.37 km straight-line from the starting point). OSM tags: cuisine=crepe; wheelchair=limited; opening_hours=Mo-Fr 11:00-19:00; Sa 12:00-17:00; amenity=cafe.\n3. chicco di caffè (Cafe; 0.54 km straight-line from the starting point). OSM tags: wheelchair=yes; opening_hours=Tu-Th 11:00-14:00; PH off; amenity=cafe.\nThese are OpenStreetMap records, not live confirmations of opening status, stock, ambience, or amenities. Distances are straight-line estimates; check the linked OSM records for current details.",
+    "model_status": "ollama"
+  },
+  {
+    "question": "Suggest an outdoor visit with a park and a place by water",
+    "origin": {
+      "label": "49.0093, 8.4020",
+      "lat": 49.0093,
+      "lon": 8.402,
+      "source": "coordinates"
+    },
+    "retrieved_contexts": [
+      {
+        "id": "node/1558650894",
+        "name": "Cafe Rih",
+        "place_type": "Cafe",
+        "lat": 49.0111338,
+        "lon": 8.3997308,
+        "description": "Cafe Rih is an OpenStreetMap-listed cafe in the Karlsruhe search area, Germany. OSM category: Cafe. Wheelchair access: no. Opening hours: Jun-Sep: Mo-Fr 09:00-19:00, Sa 10:00-19:00; Oct-May: Mo-Fr 09:00-20:00, Sa-Su 10:00-20:00. Outdoor seating: yes. Website: http://www.caferih.de/.",
+        "tags": {
+          "amenity": "cafe",
+          "check_date": "2025-10-08",
+          "indoor_seating": "yes",
+          "name": "Cafe Rih",
+          "opening_hours": "Jun-Sep: Mo-Fr 09:00-19:00, Sa 10:00-19:00; Oct-May: Mo-Fr 09:00-20:00, Sa-Su 10:00-20:00",
+          "outdoor_seating": "yes",
+          "website": "http://www.caferih.de/",
+          "wheelchair": "no"
+        },
+        "score": 0.352,
+        "source_url": "https://www.openstreetmap.org/node/1558650894",
+        "distance_km": 0.26,
+        "route_order": 1,
+        "leg_distance_km": 0.26
+      },
+      {
+        "id": "way/477137414",
+        "name": "Botanischer Garten",
+        "place_type": "Park",
+        "lat": 49.0130181,
+        "lon": 8.4006345,
+        "description": "Botanischer Garten is an OpenStreetMap-listed park in the Karlsruhe search area, Germany. OSM category: Park. Opening hours: 06:00-sunset. Website: https://www.botanischer-garten-karlsruhe.de/.",
+        "tags": {
+          "check_date": "2026-05-25",
+          "check_date:opening_hours": "2026-05-25",
+          "heritage": "yes",
+          "leisure": "park",
+          "name": "Botanischer Garten",
+          "name:de": "Botanischer Garten",
+          "name:sk": "Botanická záhrada",
+          "opening_hours": "06:00-sunset",
+          "operator": "Staatliche Schlösser und Gärten Baden-Württemberg",
+          "website": "https://www.botanischer-garten-karlsruhe.de/",
+          "wikidata": "Q475580",
+          "wikipedia": "de:Botanischer Garten Karlsruhe"
+        },
+        "score": 0.358,
+        "source_url": "https://www.openstreetmap.org/way/477137414",
+        "distance_km": 0.43,
+        "route_order": 2,
+        "leg_distance_km": 0.22
+      },
+      {
+        "id": "way/323853566",
+        "name": "Park (OSM 323853566)",
+        "place_type": "Park",
+        "lat": 48.9985976,
+        "lon": 8.3970418,
+        "description": "Park (OSM 323853566) is an OpenStreetMap-listed park in the Karlsruhe search area, Germany. OSM category: Park. Wheelchair access: yes.",
+        "tags": {
+          "leisure": "park",
+          "wheelchair": "yes"
+        },
+        "score": 0.364,
+        "source_url": "https://www.openstreetmap.org/way/323853566",
+        "distance_km": 1.24,
+        "route_order": 3,
+        "leg_distance_km": 1.62
+      },
+      {
+        "id": "way/901577724",
+        "name": "Garden (OSM 901577724)",
+        "place_type": "Garden",
+        "lat": 49.0029815,
+        "lon": 8.4174467,
+        "description": "Garden (OSM 901577724) is an OpenStreetMap-listed garden in the Karlsruhe search area, Germany. OSM category: Garden. Wheelchair access: yes.",
+        "tags": {
+          "leisure": "garden",
+          "wheelchair": "yes"
+        },
+        "score": 0.343,
+        "source_url": "https://www.openstreetmap.org/way/901577724",
+        "distance_km": 1.33,
+        "route_order": 4,
+        "leg_distance_km": 1.57
+      },
+      {
+        "id": "way/343884992",
+        "name": "Laib & Leben im Parkoffice",
+        "place_type": "Cafe",
+        "lat": 49.0038359,
+        "lon": 8.420118,
+        "description": "Laib & Leben im Parkoffice is an OpenStreetMap-listed cafe in the Karlsruhe search area, Germany. OSM category: Cafe. Wheelchair access: yes. Opening hours: Mo-Fr 05:30-18:00; Su 07:30-17:00; Sa 05:30-17:00. Outdoor seating: yes. Website: https://www.baeckerei-koehler.de/filialen/laib_leben/LL_filialen.html.",
+        "tags": {
+          "addr:city": "Karlsruhe",
+          "addr:country": "DE",
+          "addr:housenumber": "20",
+          "addr:postcode": "76131",
+          "addr:street": "Ludwig-Erhard-Allee",
+          "amenity": "cafe",
+          "check_date": "2026-05-17",
+          "check_date:opening_hours": "2026-01-20",
+          "diet:vegan": "yes",
+          "diet:vegetarian": "yes",
+          "indoor_seating": "yes",
+          "level": "0",
+          "name": "Laib & Leben im Parkoffice",
+          "opening_hours": "Mo-Fr 05:30-18:00; Su 07:30-17:00; Sa 05:30-17:00",
+          "operator": "Köhler's Landbäckerei GmbH & Co KG",
+          "outdoor_seating": "yes",
+          "shop": "bakery",
+          "toilets:wheelchair": "yes",
+          "website": "https://www.baeckerei-koehler.de/filialen/laib_leben/LL_filialen.html",
+          "wheelchair": "yes"
+        },
+        "score": 0.353,
+        "source_url": "https://www.openstreetmap.org/way/343884992",
+        "distance_km": 1.45,
+        "route_order": 5,
+        "leg_distance_km": 0.22
+      }
+    ],
+    "route": {
+      "origin": {
+        "label": "49.0093, 8.4020",
+        "lat": 49.0093,
+        "lon": 8.402,
+        "source": "coordinates"
+      },
+      "distance_km": 3.89,
+      "geometry": [
+        [
+          49.0093,
+          8.402
+        ],
+        [
+          49.0111338,
+          8.3997308
+        ],
+        [
+          49.0130181,
+          8.4006345
+        ],
+        [
+          48.9985976,
+          8.3970418
+        ],
+        [
+          49.0029815,
+          8.4174467
+        ],
+        [
+          49.0038359,
+          8.420118
+        ]
+      ],
+      "mode": "approximate-order",
+      "disclaimer": "Suggested visit order; distances and straight map segments are estimates, not walking directions."
+    },
+    "answer": "From 49.0093, 8.4020, these retrieved places are relevant matches:\n1. Botanischer Garten (Park; 0.43 km straight-line from the starting point). OSM tags: opening_hours=06:00-sunset; leisure=park.\n2. Park (OSM 323853566) (Park; 1.24 km straight-line from the starting point). OSM tags: wheelchair=yes; leisure=park.\nThese are OpenStreetMap records, not live confirmations of opening status, stock, ambience, or amenities. Distances are straight-line estimates; check the linked OSM records for current details.",
+    "model_status": "ollama"
+  }
+]
